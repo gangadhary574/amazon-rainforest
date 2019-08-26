@@ -22,6 +22,7 @@ The Amazon rainforest is the largest tropical rainforest spread across the lands
 Source:(https://www.theatlantic.com/photo/2019/08)
 
 ![forestfires](https://www.wwf.org.uk/sites/default/files/styles/hero_s/public/2019-08/Help%20the%20amazon%20rainforest.jpg?h=9e0e14f2&itok=6z-PY4NJ)
+
 Source:(https://www.wwf.org.uk/)
 
 - In the year 2019, "INPE"  [Brazil's National Institute for Space Research](https://edition.cnn.com/2019/08/21/americas/amazon-rainforest-fire-intl-hnk-trnd/index.html) has reported 72,843 forest fires in the region, of which more than 50% are in the Amazon region, which is an 80% increase to the fires observed previous year.
