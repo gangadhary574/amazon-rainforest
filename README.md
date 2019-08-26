@@ -25,10 +25,8 @@ Source:(https://www.theatlantic.com/photo/2019/08)
 
 - In the year 2019, "INPE"  [Brazil's National Institute for Space Research](https://edition.cnn.com/2019/08/21/americas/amazon-rainforest-fire-intl-hnk-trnd/index.html) has reported 72,843 forest fires in the region, of which more than 50% are in the Amazon region, which is an 80% increase to the fires observed previous year.
 - According to INPE, estimates from satellite data have revealed that deforestation in June rose almost 90% compared with the same month last year, and by 280% in July.
+- Over the past 11 months alone, deforestration has reached 4,565 sq.km.
 - The smoke from the recent fires have reached the city of Sao Paulo, which is at a distance of 1,000 miles from the forest. 
-- 
-
-
 
 ## References
 [Wikipedia Link](https://en.wikipedia.org/wiki/Amazon_rainforest)
