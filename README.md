@@ -12,9 +12,14 @@ The Amazon rainforest is the largest tropical rainforest spread across the lands
 
 ## Threats to Amazon
 ![Recent image of fires in Amazon Source](https://cdn.theatlantic.com/assets/media/img/photo/2019/08/amazon/a03_1163753360/main_1200.jpg?1566839439)
-Source: (https://www.theatlantic.com/photo/2019/08)
-- Ranching and Agriculture 
+Source:(https://www.theatlantic.com/photo/2019/08)
+- Ranching and Agriculture have led to continuous deforestration contributing to climate change, releasing over 340 million tonnes of carbondioxide every year. 
+- Due to its rich vegetation, the forest land has been subjected to illegal activities of commercial fishing and Bio- Piracy Smuggling. 
+
+![forestfires](https://www.wwf.org.uk/sites/default/files/styles/hero_s/public/2019-08/Help%20the%20amazon%20rainforest.jpg?h=9e0e14f2&itok=6z-PY4NJ)
+
 
 
 ## References
 [Wikipedia Link](https://en.wikipedia.org/wiki/Amazon_rainforest)
+[www.rainforestcruises.com](https://www.rainforestcruises.com/jungle-blog/threats-facing-the-amazon-rainforest)
