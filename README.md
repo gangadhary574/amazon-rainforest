@@ -11,8 +11,7 @@ The Amazon rainforest is the largest tropical rainforest spread across the lands
 1. The Amazon is home to fascinating and deadly creatures, including electric eels, flesh eating piranhas, poison dart frogs, jaguars and some seriously venomous snakes.
 
 ## Threats to Amazon
-![Deforestration]
-(https://i.guim.co.uk/img/media/d75b73853a26f5eb6e6cfda3863fc16c70ab87a5/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=c0069251840127816b888b8ec78afc69)
+![Deforestration](https://i.guim.co.uk/img/media/d75b73853a26f5eb6e6cfda3863fc16c70ab87a5/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=c0069251840127816b888b8ec78afc69)
 
 - Ranching and Agriculture have led to continuous deforestration contributing to climate change, releasing over 340 million tonnes of carbondioxide every year. 
 - Due to its rich vegetation, the forest land has been subjected to illegal activities of commercial fishing and Bio- Piracy Smuggling. 
@@ -22,8 +21,7 @@ The Amazon rainforest is the largest tropical rainforest spread across the lands
 ![Recent image of fires in Amazon Source](https://cdn.theatlantic.com/assets/media/img/photo/2019/08/amazon/a03_1163753360/main_1200.jpg?1566839439)
 Source:(https://www.theatlantic.com/photo/2019/08)
 
-![forestfires]
-(https://www.wwf.org.uk/sites/default/files/styles/hero_s/public/2019-08/Help%20the%20amazon%20rainforest.jpg?h=9e0e14f2&itok=6z-PY4NJ)
+![forestfires](https://www.wwf.org.uk/sites/default/files/styles/hero_s/public/2019-08/Help%20the%20amazon%20rainforest.jpg?h=9e0e14f2&itok=6z-PY4NJ)
 
 - In the year 2019, "INPE"  [Brazil's National Institute for Space Research](https://edition.cnn.com/2019/08/21/americas/amazon-rainforest-fire-intl-hnk-trnd/index.html) has reported 72,843 forest fires in the region, of which more than 50% are in the Amazon region, which is an 80% increase to the fires observed previous year.
 - According to INPE, estimates from satellite data have revealed that deforestation in June rose almost 90% compared with the same month last year, and by 280% in July.
